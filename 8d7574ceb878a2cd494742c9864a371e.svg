@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="254.01910400390625" height="92.03133392333984" viewBox="-0.01909998059272766 0.25 254.01910400390625 92.03133392333984">
+  <!-- Exported by Scratch - http://scratch.mit.edu/ -->
+  <g id="ID0.9250210830941796">
+    <path id="ID0.7267415402457118" fill="#FF0000" stroke="none" d="M 22 16.5 L 62.5 16.5 L 62.5 38.5 L 22 38.5 L 22 16.5 Z " stroke-width="1"/>
+    <path id="ID0.4627634370699525" fill="#FF0000" stroke="none" stroke-linecap="round" d="M 1 27 L 23.5 2.5 L 23.5 53 L 0.5 27 L 1 27 Z " stroke-width="1"/>
+  </g>
+  <g id="ID0.9250210830941796">
+    <path id="ID0.7267415402457118" fill="#FF0000" stroke="none" d="M 232 14.75 L 191.5 14.75 L 191.5 36.75 L 232 36.75 L 232 14.75 Z " stroke-width="1"/>
+    <path id="ID0.4627634370699525" fill="#FF0000" stroke="none" stroke-linecap="round" d="M 253 25.25 L 230.5 0.75 L 230.5 51.25 L 253.5 25.25 L 253 25.25 Z " stroke-width="1"/>
+  </g>
+  <g id="ID0.9250210830941796">
+    <path id="ID0.7267415402457118" fill="#FF9400" stroke="none" d="M 21.1591 18.7703 L 60.1111 18.7703 L 60.1111 36.1307 L 21.1591 36.1307 L 21.1591 18.7703 Z " stroke-width="0.8796895835276056"/>
+    <path id="ID0.4627634370699525" fill="#FF9400" stroke="none" stroke-linecap="round" d="M 0.9618 27.0559 L 22.6018 7.7228 L 22.6018 47.5728 L 0.4809 27.0559 L 0.9618 27.0559 Z " stroke-width="0.8796895835276056"/>
+  </g>
+  <g id="ID0.9250210830941796">
+    <path id="ID0.7267415402457118" fill="#FF9400" stroke="none" d="M 232.5909 16.7703 L 193.6389 16.7703 L 193.6389 34.1307 L 232.5909 34.1307 L 232.5909 16.7703 Z " stroke-width="0.8796896161108995"/>
+    <path id="ID0.4627634370699525" fill="#FF9400" stroke="none" stroke-linecap="round" d="M 252.7882 25.0559 L 231.1482 5.7228 L 231.1482 45.5728 L 253.2691 25.0559 L 252.7882 25.0559 Z " stroke-width="0.8796896161108995"/>
+  </g>
+  <g id="ID0.5565473260357976">
+    <text id="ID0.03657922428101301" fill="#FF0000" text-anchor="start" font-family="Sans Serif" font-size="22" transform="matrix(1.21282 0 0 1.21282 18.5026 53.0469)" stroke-width="1" alignment-baseline="text-before-edge" xml:space="preserve"><tspan x="0" style="white-space: pre" dy="1.13em">Stay on the Road!</tspan></text>
+    <text id="ID0.03657922428101301" fill="#FF9400" text-anchor="start" font-family="Sans Serif" font-size="22" transform="matrix(1.21282 0 0 1.21282 16.0769 53.6533)" stroke-width="1" alignment-baseline="text-before-edge" xml:space="preserve"><tspan x="0" style="white-space: pre" dy="1.13em">Stay on the Road!</tspan></text>
+  </g>
+</svg>

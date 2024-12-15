@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="213.546875" height="261.3806457519531" viewBox="2.5756399631500244 -2.140625 213.546875 261.3806457519531">
+  <!-- Exported by Scratch - http://scratch.mit.edu/ -->
+  <text id="ID0.8999183955602348" fill="#FF0000" text-anchor="start" font-family="Sans Serif" font-size="22" transform="matrix(1 0 0 1 56.15 -2.5)" stroke-width="1" alignment-baseline="text-before-edge" xml:space="preserve"><tspan x="0" style="white-space: pre" dy="1.13em">(When Near)</tspan></text>
+  <text id="ID0.03657922428101301" fill="#FF0000" text-anchor="start" font-family="Sans Serif" font-size="22" transform="matrix(1.21282 0 0 1.21282 5.42564 219.962)" stroke-width="1" alignment-baseline="text-before-edge" xml:space="preserve"><tspan x="0" style="white-space: pre" dy="1.13em">Avoid Obstacles!</tspan></text>
+  <text id="ID0.03657922428101301" fill="#FF9400" text-anchor="start" font-family="Sans Serif" font-size="22" transform="matrix(1.21282 0 0 1.21282 3.07564 220.612)" stroke-width="1" alignment-baseline="text-before-edge" xml:space="preserve"><tspan x="0" style="white-space: pre" dy="1.13em">Avoid Obstacles!</tspan></text>
+  <g id="ID0.015444586053490639">
+    <g id="ID0.9250210830941796">
+      <path id="ID0.7267415402457118" fill="#FF0000" stroke="none" d="M 125.0675 68.867 L 124.9474 52.0259 L 115.7991 52.0911 L 115.9192 68.9323 L 125.0675 68.867 Z " stroke-width="0.4158415760747115"/>
+      <path id="ID0.4627634370699525" fill="#FF0000" stroke="none" stroke-linecap="round" d="M 120.7636 77.6306 L 130.8847 68.2018 L 109.8852 68.3515 L 120.765 77.8385 L 120.7636 77.6306 Z " stroke-width="0.4158415760747115"/>
+    </g>
+    <g id="ID0.9250210830941796">
+      <path id="ID0.7267415402457118" fill="#FF9400" stroke="none" d="M 124.266 69.0655 L 124.1505 52.8681 L 116.9315 52.9196 L 117.047 69.117 L 124.266 69.0655 Z " stroke-width="0.3658115145222857"/>
+      <path id="ID0.4627634370699525" fill="#FF9400" stroke="none" stroke-linecap="round" d="M 120.8805 77.4887 L 128.8556 68.4328 L 112.2848 68.551 L 120.8819 77.6887 L 120.8805 77.4887 Z " stroke-width="0.3658115145222857"/>
+    </g>
+    <g id="ID0.036269173957407475">
+      <g id="ID0.9250210830941796">
+        <path id="ID0.7267415402457118" fill="#FF0000" stroke="none" d="M 131.131 55.8256 L 131.4198 96.3245 L 109.4204 96.4814 L 109.1315 55.9825 L 131.131 55.8256 Z " stroke-width="0.9999999826915525"/>
+        <path id="ID0.4627634370699525" fill="#FF0000" stroke="none" stroke-linecap="round" d="M 120.4815 34.901 L 145.1413 57.2257 L 94.6426 57.5858 L 120.4779 34.401 L 120.4815 34.901 Z " stroke-width="0.9999999826915525"/>
+      </g>
+      <g id="ID0.9250210830941796">
+        <path id="ID0.7267415402457118" fill="#FF9400" stroke="none" d="M 128.8581 55.0568 L 129.1359 94.0077 L 111.7759 94.1316 L 111.4981 55.1806 L 128.8581 55.0568 Z " stroke-width="0.8796895564823961"/>
+        <path id="ID0.4627634370699525" fill="#FF9400" stroke="none" stroke-linecap="round" d="M 120.4286 34.9191 L 139.9156 56.4206 L 100.0666 56.7048 L 120.4251 34.4382 L 120.4286 34.9191 Z " stroke-width="0.8796895564823961"/>
+      </g>
+    </g>
+  </g>
+  <text id="ID0.8999183955602348" fill="#FF9400" text-anchor="start" font-family="Sans Serif" font-size="22" transform="matrix(1 0 0 1 55 -0.9)" stroke-width="1" alignment-baseline="text-before-edge" xml:space="preserve"><tspan x="0" style="white-space: pre" dy="1.13em">(When Near)</tspan></text>
+</svg>
